@@ -1,0 +1,7 @@
+## Usage: [WEB URL OR IP TO PING]|[PORT TO PING](defaults to 80)|[TEXT BEFORE PING]|[TEXT AFTER PING]
+## Made by ThaMunsta 12.03.2014
+google.com|465||Google
+facebook.com||Facebook is|
+nowebsite|||
+#ignored line|123|Pretext|PostText
+bing.com|80|don't use|Bing
